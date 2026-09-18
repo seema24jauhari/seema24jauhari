@@ -27,3 +27,6 @@
 
 **Message Queue**
 ![Kafka](https://img.shields.io/badge/-Apache%20Kafka-231F20?logo=apache-kafka&logoColor=white&style=flat-square)
+
+**Cloud**
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat-square)
